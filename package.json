@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.8.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^7.1.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "jwt-auth-with-passport",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamssingh/jwt-auth-with-passport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamssingh/jwt-auth-with-passport/issues"
+  },
+  "homepage": "https://github.com/iamssingh/jwt-auth-with-passport#readme"
+}
